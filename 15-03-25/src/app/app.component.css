@@ -1,15 +1,30 @@
-.table{
+.table, th, td{
     width: 20%;
     height: 10vh;
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     margin: 0 auto;
     text-align: center;
-    background-color: #f2f2f2; 
+    background-color: #290e0e; 
+    color: white;
 }
 
 h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 2em auto;
+}
+
+body{
+    background-color: #aeaeae;
+    width: 100%;
+    height: 100vh;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
