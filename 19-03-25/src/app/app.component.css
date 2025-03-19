@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #676767;
+    color: white;
+}
+
+.table{
+    border: 2px solid black;
+}
+
